@@ -419,7 +419,10 @@ section {
   font-family: "Raleway", sans-serif;
   font-size: 14px;
 }
-
+.skills-logo{
+  height: 48px;
+  width: 48px;
+}
 
 /*--------------------------------------------------------------
 # Resume
